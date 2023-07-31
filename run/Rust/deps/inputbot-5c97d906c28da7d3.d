@@ -1,0 +1,11 @@
+C:\Users\632115\CUDA-FINAL\600086-wjv-lab-i-final-lab-sqz-xy\Rust\target\release\deps\inputbot-5c97d906c28da7d3.rmeta: C:\Users\632115\.cargo\registry\src\github.com-1ecc6299db9ec823\inputbot-0.5.1\src\lib.rs C:\Users\632115\.cargo\registry\src\github.com-1ecc6299db9ec823\inputbot-0.5.1\src\common.rs C:\Users\632115\.cargo\registry\src\github.com-1ecc6299db9ec823\inputbot-0.5.1\src\public.rs C:\Users\632115\.cargo\registry\src\github.com-1ecc6299db9ec823\inputbot-0.5.1\src\windows\mod.rs C:\Users\632115\.cargo\registry\src\github.com-1ecc6299db9ec823\inputbot-0.5.1\src\windows\inputs.rs
+
+C:\Users\632115\CUDA-FINAL\600086-wjv-lab-i-final-lab-sqz-xy\Rust\target\release\deps\libinputbot-5c97d906c28da7d3.rlib: C:\Users\632115\.cargo\registry\src\github.com-1ecc6299db9ec823\inputbot-0.5.1\src\lib.rs C:\Users\632115\.cargo\registry\src\github.com-1ecc6299db9ec823\inputbot-0.5.1\src\common.rs C:\Users\632115\.cargo\registry\src\github.com-1ecc6299db9ec823\inputbot-0.5.1\src\public.rs C:\Users\632115\.cargo\registry\src\github.com-1ecc6299db9ec823\inputbot-0.5.1\src\windows\mod.rs C:\Users\632115\.cargo\registry\src\github.com-1ecc6299db9ec823\inputbot-0.5.1\src\windows\inputs.rs
+
+C:\Users\632115\CUDA-FINAL\600086-wjv-lab-i-final-lab-sqz-xy\Rust\target\release\deps\inputbot-5c97d906c28da7d3.d: C:\Users\632115\.cargo\registry\src\github.com-1ecc6299db9ec823\inputbot-0.5.1\src\lib.rs C:\Users\632115\.cargo\registry\src\github.com-1ecc6299db9ec823\inputbot-0.5.1\src\common.rs C:\Users\632115\.cargo\registry\src\github.com-1ecc6299db9ec823\inputbot-0.5.1\src\public.rs C:\Users\632115\.cargo\registry\src\github.com-1ecc6299db9ec823\inputbot-0.5.1\src\windows\mod.rs C:\Users\632115\.cargo\registry\src\github.com-1ecc6299db9ec823\inputbot-0.5.1\src\windows\inputs.rs
+
+C:\Users\632115\.cargo\registry\src\github.com-1ecc6299db9ec823\inputbot-0.5.1\src\lib.rs:
+C:\Users\632115\.cargo\registry\src\github.com-1ecc6299db9ec823\inputbot-0.5.1\src\common.rs:
+C:\Users\632115\.cargo\registry\src\github.com-1ecc6299db9ec823\inputbot-0.5.1\src\public.rs:
+C:\Users\632115\.cargo\registry\src\github.com-1ecc6299db9ec823\inputbot-0.5.1\src\windows\mod.rs:
+C:\Users\632115\.cargo\registry\src\github.com-1ecc6299db9ec823\inputbot-0.5.1\src\windows\inputs.rs:
